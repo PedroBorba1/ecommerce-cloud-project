@@ -1,0 +1,47 @@
+# 🛍️ Projeto E-commerce na Cloud - Azure
+
+Este projeto foi desenvolvido como parte do curso da **DIO (Digital Innovation One)** sobre a **Plataforma de Aplicações Microsoft**, com foco em computação em nuvem usando o **Microsoft Azure**.
+
+## ☁️ Objetivo
+
+Simular a estrutura de um **e-commerce moderno** armazenando seus dados na **nuvem**, utilizando os conceitos aprendidos durante o curso. O foco está no uso de serviços gerenciados e escaláveis da nuvem, seguindo o modelo de responsabilidade compartilhada.
+
+## 📚 Conceitos abordados
+
+- Diferença entre **CapEx (Despesas de Capital)** e **OpEx (Despesas Operacionais)**
+- Modelos de computação em nuvem: **IaaS, PaaS, SaaS**
+- Tipos de nuvem: **Pública, Privada e Híbrida**
+- Benefícios da nuvem: **Alta disponibilidade**, **escalabilidade**, **elasticidade**
+- Modelo de responsabilidade compartilhada
+- Regiões e Zonas de Disponibilidade no Azure
+- Serviços do Azure relevantes para e-commerces
+
+## 🧱 Arquitetura Proposta
+
+Um e-commerce moderno pode usar a seguinte arquitetura na nuvem:
+
+- **Azure App Service**: Hospedagem da aplicação web (interface do e-commerce)
+- **Azure SQL Database** ou **Cosmos DB**: Armazenamento de dados de clientes, produtos, pedidos
+- **Azure Blob Storage**: Armazenamento de imagens de produtos
+- **Azure Functions**: Execução de código sob demanda (como envio de confirmação de pedido)
+- **Azure Virtual Network**: Comunicação segura entre serviços
+- **Azure Monitor**: Monitoramento e alertas
+
+## 📷 Prints (se quiser adicionar)
+
+Inclua aqui imagens da estrutura da arquitetura, prints do portal Azure ou telas do projeto (se tiver).
+
+## 💡 Insights
+
+- A computação em nuvem permite **crescer conforme a demanda**, sem altos custos iniciais.
+- Utilizar **serviços gerenciados** como o Azure SQL ou Cosmos DB reduz a complexidade de manutenção.
+- O modelo **serverless** com Azure Functions é ideal para tarefas event-driven como envio de e-mails, notificações ou cálculos.
+
+## 🔗 Link do repositório
+
+[https://github.com/PedroBorba1/ecommerce-cloud-project](https://github.com/PedroBorba1/ecommerce-cloud-project)
+
+---
+
+### 🚀 Projeto entregue na DIO!
+
